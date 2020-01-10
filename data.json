@@ -1,0 +1,572 @@
+
+{ "Romania":
+[
+    {
+      "Year": 1989,
+      "GDP": "54,236",
+      "LifeExpectancy": 69.53,
+      "Population": 23.11
+    },
+    {
+      "Year": 1990,
+      "GDP": "38,516",
+      "LifeExpectancy": 69.74,
+      "Population": 23.21
+    },
+    {
+      "Year": 1991,
+      "GDP": "29,070",
+      "LifeExpectancy": 69.78,
+      "Population": 23.19
+    },
+    {
+      "Year": 1992,
+      "GDP": "19,779",
+      "LifeExpectancy": 69.78,
+      "Population": 22.81
+    },
+    {
+      "Year": 1993,
+      "GDP": "26,624",
+      "LifeExpectancy": 69.56,
+      "Population": 22.78
+    },
+    {
+      "Year": 1994,
+      "GDP": "30,376",
+      "LifeExpectancy": 69.51,
+      "Population": 22.75
+    },
+    {
+      "Year": 1995,
+      "GDP": "35,838",
+      "LifeExpectancy": 69.46,
+      "Population": 22.71
+    },
+    {
+      "Year": 1996,
+      "GDP": "35,692",
+      "LifeExpectancy": 69.1,
+      "Population": 22.66
+    },
+    {
+      "Year": 1997,
+      "GDP": "35,644",
+      "LifeExpectancy": 69,
+      "Population": 22.58
+    },
+    {
+      "Year": 1998,
+      "GDP": "42,543",
+      "LifeExpectancy": 69.81,
+      "Population": 22.53
+    },
+    {
+      "Year": 1999,
+      "GDP": "35,953",
+      "LifeExpectancy": 70.51,
+      "Population": 22.49
+    },
+    {
+      "Year": 2000,
+      "GDP": "37,281",
+      "LifeExpectancy": 71.16,
+      "Population": 22.46
+    },
+    {
+      "Year": 2001,
+      "GDP": "40,395",
+      "LifeExpectancy": 71.16,
+      "Population": 22.43
+    },
+    {
+      "Year": 2002,
+      "GDP": "46,065",
+      "LifeExpectancy": 71.01,
+      "Population": 21.83
+    },
+    {
+      "Year": 2003,
+      "GDP": "57,806",
+      "LifeExpectancy": 71.31,
+      "Population": 21.63
+    },
+    {
+      "Year": 2004,
+      "GDP": "74,974",
+      "LifeExpectancy": 71.59,
+      "Population": 21.52
+    },
+    {
+      "Year": 2005,
+      "GDP": "98,454",
+      "LifeExpectancy": 71.88,
+      "Population": 21.38
+    },
+    {
+      "Year": 2006,
+      "GDP": "122,024",
+      "LifeExpectancy": 71.16,
+      "Population": 21.26
+    },
+    {
+      "Year": 2007,
+      "GDP": "174,589",
+      "LifeExpectancy": 72.57,
+      "Population": 21.13
+    },
+    {
+      "Year": 2008,
+      "GDP": "214,317",
+      "LifeExpectancy": 72.57,
+      "Population": 20.64
+    },
+    {
+      "Year": 2009,
+      "GDP": "174,102",
+      "LifeExpectancy": 73.31,
+      "Population": 20.44
+    },
+    {
+      "Year": 2010,
+      "GDP": "166,225",
+      "LifeExpectancy": 73.46,
+      "Population": 20.29
+    },
+    {
+      "Year": 2011,
+      "GDP": "183,443",
+      "LifeExpectancy": 73.41,
+      "Population": 20.2
+    },
+    {
+      "Year": 2012,
+      "GDP": "171,196",
+      "LifeExpectancy": 74.41,
+      "Population": 20.1
+    },
+    {
+      "Year": 2013,
+      "GDP": "190,948",
+      "LifeExpectancy": 75.06,
+      "Population": 20.02
+    },
+    {
+      "Year": 2014,
+      "GDP": "199,628",
+      "LifeExpectancy": 74.96,
+      "Population": 19.95
+    },
+    {
+      "Year": 2015,
+      "GDP": "177,895",
+      "LifeExpectancy": 75.01,
+      "Population": 19.87
+    },
+    {
+      "Year": 2016,
+      "GDP": "188,495",
+      "LifeExpectancy": 75.01,
+      "Population": 19.76
+    },
+    {
+      "Year": 2017,
+      "GDP": "211,407",
+      "LifeExpectancy": 75.3,
+      "Population": 19.64
+    },
+    {
+      "Year": 2018,
+      "GDP": "239,552",
+      "LifeExpectancy": 75.2,
+      "Population": 19.53
+    },
+    {
+      "Year": 2019,
+      "GDP": 0,
+      "LifeExpectancy": 75.2,
+      "Population": 19.31
+    }
+]
+
+, "Hungary":
+[
+    {
+      "Year": 1989,
+      "GDP": "30,319",
+      "LifeExpectancy": 69.46,
+      "Population": "10,374,823"
+    },
+    {
+      "Year": 1990,
+      "GDP": "34,361",
+      "LifeExpectancy": 69.32,
+      "Population": "10,373,153"
+    },
+    {
+      "Year": 1991,
+      "GDP": "34,749",
+      "LifeExpectancy": 69.38,
+      "Population": "10,373,647"
+    },
+    {
+      "Year": 1992,
+      "GDP": "38,725",
+      "LifeExpectancy": 69.12,
+      "Population": "10,365,035"
+    },
+    {
+      "Year": 1993,
+      "GDP": "40,119",
+      "LifeExpectancy": 69.1,
+      "Population": "10,350,010"
+    },
+    {
+      "Year": 1994,
+      "GDP": "43,160",
+      "LifeExpectancy": 69.47,
+      "Population": "10,336,700"
+    },
+    {
+      "Year": 1995,
+      "GDP": "46,419",
+      "LifeExpectancy": 69.79,
+      "Population": "10,321,229"
+    },
+    {
+      "Year": 1996,
+      "GDP": "46,660",
+      "LifeExpectancy": 70.33,
+      "Population": "10,301,247"
+    },
+    {
+      "Year": 1997,
+      "GDP": "47,290",
+      "LifeExpectancy": 70.7,
+      "Population": "10,279,724"
+    },
+    {
+      "Year": 1998,
+      "GDP": "48,770",
+      "LifeExpectancy": 70.56,
+      "Population": "10,253,416"
+    },
+    {
+      "Year": 1999,
+      "GDP": "49,170",
+      "LifeExpectancy": 70.68,
+      "Population": "10,221,644"
+    },
+    {
+      "Year": 2000,
+      "GDP": "47,311",
+      "LifeExpectancy": 71.25,
+      "Population": "10,200,298"
+    },
+    {
+      "Year": 2001,
+      "GDP": "53,821",
+      "LifeExpectancy": 72.25,
+      "Population": "10,174,853"
+    },
+    {
+      "Year": 2002,
+      "GDP": "67,717",
+      "LifeExpectancy": 72.35,
+      "Population": "10,142,362"
+    },
+    {
+      "Year": 2003,
+      "GDP": "85,325",
+      "LifeExpectancy": 72.3,
+      "Population": "10,116,742"
+    },
+    {
+      "Year": 2004,
+      "GDP": "104,067",
+      "LifeExpectancy": 72.65,
+      "Population": "10,097,549"
+    },
+    {
+      "Year": 2005,
+      "GDP": "113,035",
+      "LifeExpectancy": 72.65,
+      "Population": "10,076,581"
+    },
+    {
+      "Year": 2006,
+      "GDP": "115,295",
+      "LifeExpectancy": 73.1,
+      "Population": "10,066,158"
+    },
+    {
+      "Year": 2007,
+      "GDP": "139,851",
+      "LifeExpectancy": 73.15,
+      "Population": "10,045,401"
+    },
+    {
+      "Year": 2008,
+      "GDP": "157,998",
+      "LifeExpectancy": 73.7,
+      "Population": "10,030,975"
+    },
+    {
+      "Year": 2009,
+      "GDP": "130,594",
+      "LifeExpectancy": 73.9,
+      "Population": "10,014,324"
+    },
+    {
+      "Year": 2010,
+      "GDP": "130,923",
+      "LifeExpectancy": 74.21,
+      "Population": "9,985,722"
+    },
+    {
+      "Year": 2011,
+      "GDP": "140,782",
+      "LifeExpectancy": 74.86,
+      "Population": "9,931,925"
+    },
+    {
+      "Year": 2012,
+      "GDP": "127,857",
+      "LifeExpectancy": 75.06,
+      "Population": "9,908,798"
+    },
+    {
+      "Year": 2013,
+      "GDP": "135,221",
+      "LifeExpectancy": 75.57,
+      "Population": "9,877,365"
+    },
+    {
+      "Year": 2014,
+      "GDP": "140,083",
+      "LifeExpectancy": 75.76,
+      "Population": "9,855,571"
+    },
+    {
+      "Year": 2015,
+      "GDP": "123,074",
+      "LifeExpectancy": 75.57,
+      "Population": "9,777,923"
+    },
+    {
+      "Year": 2016,
+      "GDP": "126,045",
+      "LifeExpectancy": 75.57,
+      "Population": "9,752,975"
+    },
+    {
+      "Year": 2017,
+      "GDP": "139,844",
+      "LifeExpectancy": 76,
+      "Population": "9,729,823"
+    },
+    {
+      "Year": 2018,
+      "GDP": "161,182",
+      "LifeExpectancy": 76,
+      "Population": "9,707,499"
+    },
+    {
+      "Year": 2019,
+      "GDP": 0,
+      "LifeExpectancy": 76.51,
+      "Population": "9,773"
+    }
+  ],
+  "Bulgary":
+  [
+    {
+      "Year": 1989,
+      "GDP": "44,835",
+      "LifeExpectancy": 71.72,
+      "Population": "8,987"
+    },
+    {
+      "Year": 1990,
+      "GDP": "19,768",
+      "LifeExpectancy": 71.64,
+      "Population": "8,767"
+    },
+    {
+      "Year": 1991,
+      "GDP": "1,937",
+      "LifeExpectancy": 71.56,
+      "Population": "8,669"
+    },
+    {
+      "Year": 1992,
+      "GDP": "7,861",
+      "LifeExpectancy": 71.49,
+      "Population": "8,595"
+    },
+    {
+      "Year": 1993,
+      "GDP": "4,226",
+      "LifeExpectancy": 71.35,
+      "Population": "8,485"
+    },
+    {
+      "Year": 1994,
+      "GDP": "7,500",
+      "LifeExpectancy": 71.21,
+      "Population": "8,460"
+    },
+    {
+      "Year": 1995,
+      "GDP": "12,564",
+      "LifeExpectancy": 71.05,
+      "Population": "8,427"
+    },
+    {
+      "Year": 1996,
+      "GDP": "9,491",
+      "LifeExpectancy": 70.9,
+      "Population": "8,385"
+    },
+    {
+      "Year": 1997,
+      "GDP": "10,024",
+      "LifeExpectancy": 70.35,
+      "Population": "8,341"
+    },
+    {
+      "Year": 1998,
+      "GDP": "13,227",
+      "LifeExpectancy": 71.06,
+      "Population": "8,283"
+    },
+    {
+      "Year": 1999,
+      "GDP": "13,501",
+      "LifeExpectancy": 71.41,
+      "Population": "8,230"
+    },
+    {
+      "Year": 2000,
+      "GDP": "13,153",
+      "LifeExpectancy": 71.66,
+      "Population": "8,191"
+    },
+    {
+      "Year": 2001,
+      "GDP": "14,076",
+      "LifeExpectancy": 71.77,
+      "Population": "8,149"
+    },
+    {
+      "Year": 2002,
+      "GDP": "16,277",
+      "LifeExpectancy": 71.87,
+      "Population": "7,869"
+    },
+    {
+      "Year": 2003,
+      "GDP": "20,984",
+      "LifeExpectancy": 72.07,
+      "Population": "7,806"
+    },
+    {
+      "Year": 2004,
+      "GDP": "25,958",
+      "LifeExpectancy": 72.56,
+      "Population": "7,745"
+    },
+    {
+      "Year": 2005,
+      "GDP": "29,636",
+      "LifeExpectancy": 72.56,
+      "Population": "7,689"
+    },
+    {
+      "Year": 2006,
+      "GDP": "34,131",
+      "LifeExpectancy": 72.61,
+      "Population": "7,629"
+    },
+    {
+      "Year": 2007,
+      "GDP": "44,410",
+      "LifeExpectancy": 72.66,
+      "Population": "7,573"
+    },
+    {
+      "Year": 2008,
+      "GDP": "54,408",
+      "LifeExpectancy": 72.96,
+      "Population": "7,518"
+    },
+    {
+      "Year": 2009,
+      "GDP": "51,885",
+      "LifeExpectancy": 73.41,
+      "Population": "7,467"
+    },
+    {
+      "Year": 2010,
+      "GDP": "50,611",
+      "LifeExpectancy": 73.51,
+      "Population": "7,422"
+    },
+    {
+      "Year": 2011,
+      "GDP": "57,420",
+      "LifeExpectancy": 74.16,
+      "Population": "7,369"
+    },
+    {
+      "Year": 2012,
+      "GDP": "53,901",
+      "LifeExpectancy": 74.31,
+      "Population": "7,327"
+    },
+    {
+      "Year": 2013,
+      "GDP": "55,557",
+      "LifeExpectancy": 74.86,
+      "Population": "7,285"
+    },
+    {
+      "Year": 2014,
+      "GDP": "56,815",
+      "LifeExpectancy": 74.47,
+      "Population": "7,246"
+    },
+    {
+      "Year": 2015,
+      "GDP": "50,201",
+      "LifeExpectancy": 74.61,
+      "Population": "7,202"
+    },
+    {
+      "Year": 2016,
+      "GDP": "53,236",
+      "LifeExpectancy": 74.61,
+      "Population": "7,154"
+    },
+    {
+      "Year": 2017,
+      "GDP": "58,342",
+      "LifeExpectancy": 74.8,
+      "Population": "7,102"
+    },
+    {
+      "Year": 2018,
+      "GDP": "65,197",
+      "LifeExpectancy": 74.8,
+      "Population": "7,050"
+    },
+    {
+      "Year": 2019,
+      "GDP": 0,
+      "LifeExpectancy": 75.47,
+      "Population": "7,000"
+    }
+  ]
+
+}
+
